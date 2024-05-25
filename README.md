@@ -12,7 +12,7 @@ Installation and Setup
 To install and set up this application on your Android device, follow these steps:
 
 Download the APK:
-Download the latest APK from the Releases section or from this link:
+Download the latest APK from the [Releases](https://github.com/hosseinheidari2n/Blue-Movie/releases) section or from this link:
 (https://B2n.ir/y43267)
 
 Enable Installation from Unknown Sources:
