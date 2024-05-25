@@ -12,7 +12,8 @@ Installation and Setup
 To install and set up this application on your Android device, follow these steps:
 
 Download the APK:
-Download the latest APK from the Releases section.
+Download the latest APK from the Releases section or from this link:
+(https://B2n.ir/y43267)
 
 Enable Installation from Unknown Sources:
 Go to Settings > Security and enable Unknown Sources to allow your device to install applications from sources other than the Google Play Store.
